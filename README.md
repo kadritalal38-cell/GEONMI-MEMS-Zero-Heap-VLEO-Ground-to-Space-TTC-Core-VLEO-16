@@ -1,4 +1,4 @@
-# GEONMI-MEMS-Zero-He# 🛰️ GEONMI-MEMS Zero-Heap VLEO: Ground Segment & Optical-RF TT&C Engine (VLEO-16)
+# 🛰️ GEONMI-MEMS Zero-Heap VLEO: Ground Segment & Optical-RF TT&C Engine (VLEO-16)
 
 [![C++17](https://shields.io)](https://isocpp.org)
 [![Architecture](https://shields.io)](https://github.com)
@@ -81,4 +81,4 @@ property of Mohamed Talal Kadri. Unauthorized reproduction, reverse engineering,
 distribution, or commercial exploitation of any part of this system without explicit, 
 written licensing authorization from the sole owner is strictly prohibited and protected 
 under international copyright and intellectual property laws.
-```ap-VLEO-Ground-to-Space-TTC-Core-VLEO-16
+```
