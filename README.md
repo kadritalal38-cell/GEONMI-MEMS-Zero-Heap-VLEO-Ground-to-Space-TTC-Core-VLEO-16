@@ -7,6 +7,7 @@
 [![Evaluation](https://shields.io)](https://github.com)
 [![License](https://shields.io)](https://github.com)
 
+<img width="683" height="363" alt="Screenshot_٢٠٢٦١١١٢-١٧٢٧٣٠_Gallery" src="https://github.com/user-attachments/assets/fb486ba7-b878-45ef-82af-5f3d44b90490" />
 ---
 
 ### ⚠️ IMPORTANT NOTICES & DISCLAIMERS
