@@ -15,6 +15,7 @@
 * **Financial Disclaimer:** All financial metrics, cost-reduction estimates (CapEx/OpEx), and return-on-investment (ROI) projections presented in this document are **illustrative, hypothetical models** based on architectural simulations. They do not constitute binding financial guarantees or commercial warranties.
 
 ---
+<img width="669" height="366" alt="Screenshot_٢٠٢٦١١١٢-١٧١٦٥٨_Gallery" src="https://github.com/user-attachments/assets/0d96e127-119f-425f-a58b-b5525626e76a" />
 
 ## 🌐 1. Architectural Overview & Ecosystem Integration
 
