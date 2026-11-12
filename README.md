@@ -34,6 +34,9 @@ While the onboard Flight Engine ensures deterministic, zero-fragmentation satell
 ---
 
 <img width="652" height="377" alt="Screenshot_٢٠٢٦١١١٢-١٧١٨٥٩_Gallery" src="https://github.com/user-attachments/assets/75621dc7-0a68-4f03-8aaf-df1dd2c38c9b" />
+
+<img width="672" height="390" alt="Screenshot_٢٠٢٦١١١٢-١٧١٧٥٨_Gallery" src="https://github.com/user-attachments/assets/861d2954-db0d-4801-8d31-91051f0507a0" />
+
 ## 📊 2. Technical Readiness & Verification Summary
 
 The core architecture has undergone a rigorous **Critical Design Review (CDR)** and static compliance verification, achieving an overall engineering score of **98 / 100**:
