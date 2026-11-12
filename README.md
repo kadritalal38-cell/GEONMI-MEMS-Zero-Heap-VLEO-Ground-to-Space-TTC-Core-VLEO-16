@@ -46,6 +46,7 @@ The core architecture has undergone a rigorous **Critical Design Review (CDR)** 
 | **Software Readiness Level (SRL)** | **SRL-7** | **Verified & Ready for Hardware-in-the-Loop (HIL) Simulation.** |
 
 ---
+<img width="683" height="351" alt="Screenshot_٢٠٢٦١١١٢-١٧٤٢٥٤_Gallery" src="https://github.com/user-attachments/assets/3c6e7896-a538-4c11-8f94-6a7b790cfc3a" />
 
 ## 💰 3. Financial & Investment Value Proposition (CapEx & OpEx)
 
