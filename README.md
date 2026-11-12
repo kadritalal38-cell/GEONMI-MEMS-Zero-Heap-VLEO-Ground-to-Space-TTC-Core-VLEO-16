@@ -8,6 +8,7 @@
 [![License](https://shields.io)](https://github.com)
 
 <img width="683" height="363" alt="Screenshot_٢٠٢٦١١١٢-١٧٢٧٣٠_Gallery" src="https://github.com/user-attachments/assets/fb486ba7-b878-45ef-82af-5f3d44b90490" />
+> This architecture is strictly engineered in **ISO C++17** under a deterministic **Zero-Heap** execution model, designed to comply with international aerospace and safety-critical software standards, including **ECSS-E-ST-40C**, **NASA NPR 7150.2**, **MISRA C++** memory-safety guidelines, and **CCSDS** space data link protocols.
 ---
 
 ### ⚠️ IMPORTANT NOTICES & DISCLAIMERS
