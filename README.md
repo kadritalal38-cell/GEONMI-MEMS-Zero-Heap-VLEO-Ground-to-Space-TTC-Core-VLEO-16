@@ -1,4 +1,4 @@
-# 🛰️ GEONMI-MEMS Zero-Heap VLEO: Ground Segment & Optical-RF TT&C Engine (VLEO-16)
+# GEONMI-MEMS Zero-Heap VLEO: Ground Segment & Optical-RF TT&C Engine (VLEO-16)
 
 [![C++17](https://shields.io)](https://isocpp.org)
 [![Architecture](https://shields.io)](https://github.com)
